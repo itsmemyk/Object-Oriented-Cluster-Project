@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OODBClusterCS", "OODBCluserCS\OODBClusterCS.csproj", "{E8443E8A-BB07-4ECC-B08A-4E9ABA3840FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClusterLib", "ClusterLib\ClusterLib.csproj", "{6C2068B7-7316-4AA0-B864-16BC58AEA539}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeWebApp", "EmployeeWebApp\EmployeeWebApp.csproj", "{D2CDB307-8FB2-4978-A5E8-EC7731772D6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8443E8A-BB07-4ECC-B08A-4E9ABA3840FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8443E8A-BB07-4ECC-B08A-4E9ABA3840FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8443E8A-BB07-4ECC-B08A-4E9ABA3840FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8443E8A-BB07-4ECC-B08A-4E9ABA3840FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C2068B7-7316-4AA0-B864-16BC58AEA539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C2068B7-7316-4AA0-B864-16BC58AEA539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C2068B7-7316-4AA0-B864-16BC58AEA539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C2068B7-7316-4AA0-B864-16BC58AEA539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2CDB307-8FB2-4978-A5E8-EC7731772D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2CDB307-8FB2-4978-A5E8-EC7731772D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2CDB307-8FB2-4978-A5E8-EC7731772D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2CDB307-8FB2-4978-A5E8-EC7731772D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

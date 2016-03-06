@@ -1,0 +1,7 @@
+#Content {
+	margin-top:30px;	
+}
+button[disabled], html input[disabled] {
+    cursor: default;
+    width: 100%;
+}
